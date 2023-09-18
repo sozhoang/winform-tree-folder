@@ -1,4 +1,4 @@
-# Winform display and filter sub-folders.
+# Winform display and filter sub-folders and files.
 
 ![app](app.PNG)
 
