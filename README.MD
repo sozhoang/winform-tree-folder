@@ -1,6 +1,7 @@
 # Winform display and filter sub-folders and files.
 
 The repository is a mini application of **Mediator** and **Visitor** Design Pattern.
+
 ![app](app.PNG)
 
 You can find more information about structures in report.
